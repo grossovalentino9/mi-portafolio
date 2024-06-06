@@ -143,3 +143,31 @@ span{
     background-color: #f36c4f;
     margin-top: -20px;
 }
+
+.servicios{
+    background-color: #222222;
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 100vw;
+    align-items: center; */
+    margin-top: -20px;
+
+}
+.serv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 0;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.servi{
+    
+    border: 2px solid red;
+    background-color: #262626;
+    text-align: center;
+    width: auto;
+
+}
