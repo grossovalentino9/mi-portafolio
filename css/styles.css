@@ -109,6 +109,7 @@ span{
 }
 
 .about{
+    padding: 30px 0px 0px 0px;
     display: grid;
     grid-template-columns: repeat(10,1fr);
     width: 100vw;
@@ -122,9 +123,12 @@ span{
 }
 .about-info{
     grid-column: 5/10;
+
 }
-.about h2{
+.about-info h2{
     color: white;
+    font-size: 2em;
+    
 }
 .naranja{
     color: #f36c4f;
@@ -132,4 +136,10 @@ span{
 .infoo{
     color:  rgb(156, 152, 152);
     
+}
+.divider{
+    height: 4px;
+    width: 60px;
+    background-color: #f36c4f;
+    margin-top: -20px;
 }
