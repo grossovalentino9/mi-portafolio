@@ -81,7 +81,7 @@ span{
     color: #f36c4f;
 }
 .infocont p{
-    color: white;
+    color: rgb(156, 152, 152);
 }
 .contac{
     padding: 10px 22px;
@@ -122,4 +122,14 @@ span{
 }
 .about-info{
     grid-column: 5/10;
+}
+.about h2{
+    color: white;
+}
+.naranja{
+    color: #f36c4f;
+}
+.infoo{
+    color:  rgb(156, 152, 152);
+    
 }
