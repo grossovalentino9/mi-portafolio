@@ -95,9 +95,7 @@ span{
     transition: 3s;
 }
 .infocont img{
-    width: 370px;
-    height: 450px;
-    font-size: 50px;
+    width: 100%;
     filter: invert(29%) sepia(0%) saturate(0%) hue-rotate(295deg) brightness(98%) contrast(83%);
 }
 .infocont .icons{
@@ -108,4 +106,20 @@ span{
     background-color: white;
     background-size: auto;
     padding: 5px;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    width: 100vw;
+    background-color: #262626;
+    align-items: center;
+}
+.about img{
+    width: 100%;
+    grid-column: 1/5;
+    filter: invert(29%) sepia(0%) saturate(0%) hue-rotate(295deg) brightness(98%) contrast(83%);
+}
+.about-info{
+    grid-column: 5/10;
 }
