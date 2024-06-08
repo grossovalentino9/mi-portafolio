@@ -3,7 +3,8 @@ body{
     "Helvetica Neue"
     Helvetica
     Arial
-    sans-serif
+    sans-serif ;
+ 
 }
 .hederr{
     width: 100vw;
@@ -113,7 +114,7 @@ span{
     display: grid;
     grid-template-columns: repeat(10,1fr);
     width: 100vw;
-    background-color: #262626;
+    background-color: #2a2929;
     align-items: center;
 }
 .about img{
@@ -150,7 +151,7 @@ span{
     grid-template-columns: repeat(3,1fr);
     width: 100vw;
     align-items: center; */
-    margin-top: -20px;
+    margin-top: -26px;
 
 }
 .serv{
@@ -162,12 +163,43 @@ span{
     width: 70%;
     margin: 0 auto;
 }
-
-.servi{
-    
-    border: 2px solid red;
-    background-color: #262626;
-    text-align: center;
-    width: auto;
+.servicios h2{
+    color: white;
+    font-size: 2em;
 
 }
+.servi h3{
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+}
+.servi p {
+    color: rgb(156, 152, 152);
+    text-align: left;
+    padding: 10px;
+}
+
+
+.servi i{
+    color: #f36c4f;
+    font-size: 50px
+}
+.servi{
+    
+    background-color: #2a2929;
+    text-align: center;
+    width: auto;
+    border-radius: 7px;
+
+
+
+}
+.servi:hover{
+    background-color: #f36c4f;
+    color: white;
+    transition: 2s;
+}
+    
+
+
+
