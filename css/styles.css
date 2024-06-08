@@ -142,7 +142,7 @@ span{
     height: 4px;
     width: 30px;
     background-color: #f36c4f;
-    margin-top: -20px;
+    margin-top: -15px;
 }
 
 .servicios{
@@ -166,6 +166,7 @@ span{
 .servicios h2{
     color: white;
     font-size: 2em;
+    padding-top: 25px;
 
 }
 .servi h3{
@@ -196,10 +197,18 @@ span{
 }
 .servi:hover{
     background-color: #f36c4f;
-    color: white;
+    
     transition: 2s;
 }
-    
+.servi:hover i{
+    color: #fff;
+    transition: 2s;
+}    
+.servi:hover p{
+    color: #fff;
+    transition: 2s;
+}
+
 
 
 
