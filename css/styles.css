@@ -147,10 +147,6 @@ span{
 
 .servicios{
     background-color: #222222;
-    /* display: grid;
-    grid-template-columns: repeat(3,1fr);
-    width: 100vw;
-    align-items: center; */
     margin-top: -26px;
 
 }
@@ -162,6 +158,7 @@ span{
     grid-row-gap: 0;
     width: 70%;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
 .servicios h2{
     color: white;
@@ -191,6 +188,7 @@ span{
     text-align: center;
     width: auto;
     border-radius: 7px;
+    /* padding-bottom: 20px; */
 
 
 
@@ -209,6 +207,29 @@ span{
     transition: 2s;
 }
 
+.portafolio{
+    background-color: #222222;
+    display: grid;
+    /* grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    width: 100%;
+    height: 100%; */
+    
 
+}
+.port{
+    text-align: center;
+    border-radius: 5px;
+    border-color: red;
+    background-color: #f36c4f;
 
-
+    
+   
+    
+}
+.porta{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    
+}
