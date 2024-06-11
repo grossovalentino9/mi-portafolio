@@ -11,3 +11,25 @@
         display: block;
     }
 }
+@media(max-width:480px){
+    .heroimg{
+        display: none;
+    
+    }
+    .serv{
+        grid-template-columns: repeat(1,1fr);
+        
+        
+        
+    }
+    .porta{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+    
+    
+    
+
+
+    
