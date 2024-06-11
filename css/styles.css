@@ -192,7 +192,7 @@ span{
     text-align: center;
     width: auto;
     border-radius: 7px;
-    /* padding-bottom: 20px; */
+    
 
 
 
@@ -274,6 +274,7 @@ span{
 }
 .contacto{
     background-color: #f36c4f;
+    display: flex;
 }
 .inforr i{
     padding: 5px;

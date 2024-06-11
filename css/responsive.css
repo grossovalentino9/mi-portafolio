@@ -25,7 +25,21 @@
     .porta{
         grid-template-columns: repeat(1,1fr);
     }
-    
+
+}
+@media(max-width:320px){
+    .contacto{
+        flex-direction: column;
+        box-shadow: none;
+        align-items: center;
+    }
+    .for{
+        width: 80%;
+    }
+    .porta{
+        padding: 0px;
+    }
+
 }
     
     
