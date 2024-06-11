@@ -19,11 +19,19 @@
     .serv{
         grid-template-columns: repeat(1,1fr);
         
-        
-        
     }
     .porta{
         grid-template-columns: repeat(1,1fr);
+    }
+    .contacto{
+        flex-direction: column;
+        align-items: center;
+    }
+    .for{
+        width: 80%;
+    }
+    .porta{
+        padding: 0px;
     }
 
 }
