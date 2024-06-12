@@ -274,7 +274,7 @@ span{
 }
 .contacto{
     background-color: #f36c4f;
-    display: flex;
+    /* display: flex; */
 }
 .inforr i{
     padding: 5px;
