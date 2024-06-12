@@ -1,6 +1,6 @@
 # DESCRIPCION: 
 
-Este portafolio es una presentación sobre mí, donde podrán conocer mi formación académica y experiencia en el campo de la ingeniería de sistemas. En la sección "Mis Servicios", he copiado el formato estándar del diseño elegido, que actualizaré próximamente con los servicios que ofrezco. Por otro lado en la sección "Mi Portafolio", he dejado espacios destinados a mis futuros proyectos, los cuales agregaré a medida que los desarrolle y complete.
+Este portafolio es una presentación sobre mí, donde podrán conocer mi formación académica y experiencia en el campo de la ingeniería de sistemas. El logo es distinto ya que busque uno más representativo, de todos modos respete el formato y el color del diseño a seguir. En la sección "Mis Servicios", he copiado el formato estándar del diseño elegido, que actualizaré próximamente con los servicios que ofrezco. Por otro lado en la sección "Mi Portafolio", he dejado espacios destinados a mis futuros proyectos, los cuales agregaré a medida que los desarrolle y complete.
 
 # TECNOLOGIAS UTILIZADAS: 
 
