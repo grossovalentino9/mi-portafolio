@@ -21,3 +21,7 @@ En este proyecto no se necesita correr un programa.
 Este proyecto no tiene colaboracion, pero acepto cualquier tipo de critica constructiva para mejorar como profesional.
 
 ![Captura de Pantalla 2024-06-11 a la(s) 23 37 11](https://github.com/grossovalentino9/mi-portafolio/assets/170748577/1a9c13d2-1c98-4dcb-8a7f-2aee07d041f2)
+
+# VISUALIZACION DEL PROYECTO:
+
+https://grossovalentino9.github.io/mi-portafolio/
